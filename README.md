@@ -11,6 +11,8 @@ the ipynb files descriptions are as followed:
 
 
 <img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
+
+
 ## Getting Started   
 
 To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com).
