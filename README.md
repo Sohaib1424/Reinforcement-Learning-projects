@@ -10,7 +10,7 @@ the ipynb files descriptions are as followed:
 - Actor-Critic with softmax with Tile Coding
 
 
-![](https://github.com/Sohaib1424/Reinforcement-Learning-projects/blob/main/gifs/mountaincar-v0.gif)
+<img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
 ## Getting Started   
 
 To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com).
