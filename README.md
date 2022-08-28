@@ -10,6 +10,8 @@ the ipynb files descriptions are as followed:
 - Actor-Critic with softmax with Tile Coding
 
 
+<img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
+
 
 ## Getting Started   
 
