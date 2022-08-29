@@ -1,14 +1,20 @@
 # Reinforcement Learning projetcs
 
 In this repository, you can find Reinforcement Learning projetcs I have done in OpenAI gym environments.
-the ipynb files descriptions are as followed:
 
-1- ClassicControl.ipynb: solving classic control problems such as MountainCar-v0, CartPole-v1, etc. with the following algorithms:
-- Q_Learning
-- semi-gradient SARSA with Tile Coding
-- Differential semi_gradient SARSA with Tile Coding
-- Actor-Critic with softmax with Tile Coding
+## Environments solved:
 
+- [Classic Control] (#ClassicControl)
+ *[MountainCar-v0] (#MountainCar-v0)
+
+
+## Algorithms used in each environment:
+
+- MountainCar-v0
+  * Q_Learning
+  * semi-gradient SARSA with Tile Coding
+  * Differential semi_gradient SARSA with Tile Coding
+  * Actor-Critic with softmax with Tile Coding
 
 <img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
 
