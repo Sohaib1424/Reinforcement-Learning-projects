@@ -4,8 +4,8 @@ In this repository, you can find Reinforcement Learning projetcs I have done in 
 
 ## Environments solved:
 
-- [Classic Control] (https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl)
- *[MountainCar-v0] (https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl/MountainCar-v0)
+- [Classic Control](https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl)
+ *[MountainCar-v0](https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl/MountainCar-v0)
 
 
 ## Algorithms used in each environment:
