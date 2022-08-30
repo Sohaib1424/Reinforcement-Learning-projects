@@ -21,10 +21,10 @@ In this repository, you can find Reinforcement Learning projetcs I have done in 
   * Differential semi_gradient SARSA with Tile Coding
   * Actor-Critic with softmax with Tile Coding
 
-
-<img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
-<img src="/gifs/cartpole-v1.gif" width="250" height="250"/>
-
+<p float="left">
+ <img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
+ <img src="/gifs/cartpole-v1.gif" width="250" height="250"/>
+</p>
 
 
 ## Getting Started   
