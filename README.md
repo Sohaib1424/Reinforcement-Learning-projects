@@ -6,7 +6,7 @@ In this repository, you can find Reinforcement Learning projetcs I have done in 
 
 - [Classic Control](https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl)
   * [MountainCar-v0](https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl/MountainCar-v0)
-
+  * [CartPole-v1](https://github.com/Sohaib1424/Reinforcement-Learning-projects/tree/main/ClassicControl/CartPole-v1)
 
 ## Algorithms used in each environment:
 
@@ -15,8 +15,16 @@ In this repository, you can find Reinforcement Learning projetcs I have done in 
   * semi-gradient SARSA with Tile Coding
   * Differential semi_gradient SARSA with Tile Coding
   * Actor-Critic with softmax with Tile Coding
+- CartPole-v1
+  * Q_Learning
+  * semi-gradient SARSA with Tile Coding
+  * Differential semi_gradient SARSA with Tile Coding
+  * Actor-Critic with softmax with Tile Coding
+
 
 <img src="/gifs/mountaincar-v0.gif" width="250" height="250"/>
+<img src="/gifs/cartpole-v1.gif" width="250" height="250"/>
+
 
 
 ## Getting Started   
