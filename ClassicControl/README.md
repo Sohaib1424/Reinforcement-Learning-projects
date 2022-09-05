@@ -1,6 +1,6 @@
 # Classic Control
 
-The plots below show the results of solving each envirnment with available algorithms:
+The plots below show the results of solving each environment with available algorithms:
 
 ## MountainCar-v0
 
